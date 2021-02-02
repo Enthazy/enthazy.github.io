@@ -6,4 +6,4 @@ subheading: Recent&#58;
 image: ""
 ---
 
-Preparing the article "Bifurcation of Two Vortex System in the Half-Plane" supervised by the Professor Boris Khesin[site](http://www.math.toronto.edu/khesin/).
+Preparing the article "Bifurcation of Two Vortex System in the Half-Plane" supervised by the Professor Boris Khesin in University of Toronto [site](http://www.math.toronto.edu/khesin/).
