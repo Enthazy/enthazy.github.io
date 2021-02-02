@@ -1,1 +1,18 @@
-theme: jekyll-theme-architect
+title: Stephen Wang's site
+description:
+sitename: enthazy
+baseurl: '2021'
+sass:
+  sass_dir: /assets/_sass
+  style: :compressed
+collections:
+  - contents
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE.txt
+  - CNAME
+markdown: kramdown
+
+theme: jekyll-theme-cayman
