@@ -1,7 +1,7 @@
 title: Stephen Wang's site
 description:
-sitename: enthazy
-baseurl: '2021'
+sitename: Stephen Wang's site
+baseurl:
 sass:
   sass_dir: /assets/_sass
   style: :compressed
