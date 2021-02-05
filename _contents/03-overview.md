@@ -14,4 +14,5 @@ Here are tutorial notes for the course MAT187H1.
 |-----------|------------------------
 | **Week 2**   |  [pdf](assets/tutorials/week2_tutroial.pdf)  
 | **Week 3**   |  [pdf](assets/tutorials/week3_tutorial.pdf) 
+| **Week 4**   |  [pdf](assets/tutorials/week4_MAT187.pdf) 
 | **all white boards**   |  [sources](https://github.com/Enthazy/enthazy.github.io/tree/main/assets/tutorials)  
