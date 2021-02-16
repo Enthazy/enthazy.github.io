@@ -10,4 +10,4 @@ image: ""
 
 **Publication**: "Bifurcation of Two Vortex System in the Half-Plane" supervised by Boris Khesin in University of Toronto [site](http://www.math.toronto.edu/khesin/).<br>
 
-**Toy**: demo on AFrame cubes. [demo](http://enthazy.github.io/assets/demos/aframe/cubes.html) [source](https://github.com/Enthazy/AFrame_Geometry)
+**Toy Model**: a demo on AFrame cubes. [demo](http://enthazy.github.io/assets/demos/aframe/cubes.html) [source](https://github.com/Enthazy/AFrame_Geometry)
