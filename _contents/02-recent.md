@@ -6,8 +6,8 @@ subheading: Recent&#58;
 image: ""
 ---
 
-Submitted the article "The Golden Ratio and Hydrodynamics". [paper](http://www.math.toronto.edu/khesin/papers/goldenhydro.pdf)
+**Publication**: "The Golden Ratio and Hydrodynamics" with Boris Khesin. [preprint](http://www.math.toronto.edu/khesin/papers/goldenhydro.pdf)<br>
 
-Preparing the article "Bifurcation of Two Vortex System in the Half-Plane" supervised by the Professor Boris Khesin in University of Toronto [site](http://www.math.toronto.edu/khesin/).
+**Publication**: "Bifurcation of Two Vortex System in the Half-Plane" supervised by Boris Khesin in University of Toronto [site](http://www.math.toronto.edu/khesin/).<br>
 
-Upload a demo on AFrame cubes. [demo](http://enthazy.github.io/assets/demos/aframe/cubes.html)
+**Toy**: demo on AFrame cubes. [demo](http://enthazy.github.io/assets/demos/aframe/cubes.html)
