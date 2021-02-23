@@ -10,10 +10,11 @@ Here are tutorial notes for the course MAT187H1.
 
 
 
-|           | Handout                
-|-----------|------------------------
-| **Week 2**   |  [pdf](assets/tutorials/week2_tutroial.pdf)  
-| **Week 3**   |  [pdf](assets/tutorials/week3_tutorial.pdf) 
-| **Week 4**   |  [pdf](assets/tutorials/week4_MAT187.pdf)
-| **Week 5**   |  [pdf](assets/tutorials/week5_MAT187.pdf)
-| **all white boards**   |  [sources](https://github.com/Enthazy/enthazy.github.io/tree/main/assets/tutorials)  
+|           | Notes                | White Boards
+|-----------|------------------------|-------
+| **Week 1**   |    | [1](assets/tutorials/w1_0102C.pdf) [2](assets/tutorials/w1_0105B.pdf) [3](assets/tutorials/w1_0115A.pdf)
+| **Week 2**   |  [pdf](assets/tutorials/week2_tutroial.pdf)  |  [2](assets/tutorials/w2_0105B.pdf) [3](assets/tutorials/w2_0115A.pdf)
+| **Week 3**   |  [pdf](assets/tutorials/week3_tutorial.pdf)  |  [3](assets/tutorials/w3_0115A.pdf)
+| **Week 4**   |  [pdf](assets/tutorials/week4_MAT187.pdf)    | [1](assets/tutorials/w4_0102C.pdf) [2](assets/tutorials/w4_0105B.pdf) 
+| **Week 5**   |  [pdf](assets/tutorials/week5_MAT187.pdf)    | [1](assets/tutorials/w5_0102C.pdf) [2](assets/tutorials/w5_0105B.pdf) [3](assets/tutorials/w5_0115A.pdf)
+
