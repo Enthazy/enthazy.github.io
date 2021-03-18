@@ -19,3 +19,4 @@ Here are tutorial notes for the course MAT187H1.
 | **Week 5**   |  [pdf](assets/tutorials/week5_MAT187.pdf)    | [1](assets/tutorials/w5_0102C.pdf) [2](assets/tutorials/w5_0105B.pdf) [3](assets/tutorials/w5_0115A.pdf)
 | **Week 6**   |  [pdf](assets/tutorials/week6_MAT187.pdf)    | [1](assets/tutorials/w6_0105B.pdf) [2](assets/tutorials/w6_0102C.pdf)
 | **Week 7**   |      | [1](assets/tutorials/w7_0105B.pdf) [2](assets/tutorials/w7_0102C.pdf)
+| **Week 8**   |      | [1](assets/tutorials/w8_0105B.pdf) [2](assets/tutorials/w8_0102C.pdf)
